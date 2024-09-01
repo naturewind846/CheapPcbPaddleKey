@@ -26,7 +26,7 @@ PCB包含在立创eda工程文件中，可以免费打样。打样后pcb板按�
 
 成品前后视角
 
-<div align=center><img src="/fwdpic.jpg" width="500" height="360" /><img src="/backpic.jpg" width="500" height="360" /></div>
+<div align=center><img src="/fwdpic.jpg" width="400" height="300" /><img src="/backpic.jpg" width="400" height="300" /></div>
 
 制作需要使用0.5mm的漆包线或者导线在下图所示地方焊接，两边都要焊接连接上。导线最好像弹簧那样弯曲一两圈后再焊接，避免导线对桨键回弹的影响
 
