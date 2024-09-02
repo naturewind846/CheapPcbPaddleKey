@@ -1,7 +1,7 @@
 # 经济适用型PCB自动键
 
 这是用PCB和标准螺丝、螺杆、磁铁拼凑成的简易双桨电键，成本很低（只需要17元）
-![image](/mianpic.jpg)
+![image](/pictures/mianpic.jpg)
 可以通过旋转桨键两侧的限位螺杆来改变行程。
 
 ## 零件清单
@@ -20,16 +20,20 @@
 
 
 ## 制作过程
-PCB包含在立创eda工程文件中，可以免费打样。打样后pcb板按照下图红线剪开，桨的两小臂要用 ### 锉刀打磨后塞进轴承里
+PCB包含在立创eda工程文件中，可以免费打样。打样后pcb板按照下图红线剪开，桨的两小臂要用 锉刀打磨后塞进轴承里
 
-<div align=center><img src="/pcbpic.jpg" width="600" height="900" /></div>
+<div align=center><img src="/pictures/pcbpic.jpg" width="600" height="600" /></div>
+
+注意小臂上的小凸起，锉刀打磨不应该超过这个边缘
+
+<div align=center><img src="/pictures/detail.jpg" width="600" height="600" /></div>
 
 成品前后视角
 
-<div align=center><img src="/fwdpic.jpg" width="400" height="300" /><img src="/backpic.jpg" width="400" height="300" /></div>
+<div align=center><img src="/pictures/fwdpic.jpg" width="400" height="300" /><img src="/backpic.jpg" width="400" height="300" /></div>
 
 制作需要使用0.5mm的漆包线或者导线在下图所示地方焊接，两边都要焊接连接上。导线最好像弹簧那样弯曲一两圈后再焊接，避免导线对桨键回弹的影响
 
-<div align=center><img src="/weldpic.jpg" width="900" height="600" /></div>
+<div align=center><img src="/pictures/weldpic.jpg" width="900" height="600" /></div>
 
 注：图示中两个桨键的限位螺杆为了利用剩余零件，没有使用双通螺柱，效果一致。
