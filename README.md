@@ -22,15 +22,15 @@
 ## 制作过程
 PCB包含在立创eda工程文件中，可以免费打样。打样后pcb板按照下图红线剪开，桨的两小臂要用 锉刀打磨后塞进轴承里
 
-<div align=center><img src="/pictures/pcbpic.jpg" width="600" height="600" /></div>
+<div align=center><img src="/pictures/pcbpic.jpg" /></div>
 
 注意小臂上的小凸起，锉刀打磨不应该超过这个边缘
 
-<div align=center><img src="/pictures/detail.jpg" width="600" height="600" /></div>
+<div align=center><img src="/pictures/detail.jpg" /></div>
 
 成品前后视角
 
-<div align=center><img src="/pictures/fwdpic.jpg" width="400" height="300" /><img src="/pictures/backpic.jpg" width="400" height="300" /></div>
+<div align=center><img src="/pictures/fwdpic.jpg" /><img src="/pictures/backpic.jpg" /></div>
 
 制作需要使用0.5mm的漆包线或者导线在下图所示地方焊接，两边都要焊接连接上。导线最好像弹簧那样弯曲一两圈后再焊接，避免导线对桨键回弹的影响
 
