@@ -34,6 +34,6 @@ PCB包含在立创eda工程文件中，可以免费打样。打样后pcb板按�
 
 制作需要使用0.5mm的漆包线或者导线在下图所示地方焊接，两边都要焊接连接上。导线最好像弹簧那样弯曲一两圈后再焊接，避免导线对桨键回弹的影响
 
-<div align=center><img src="/pictures/weldpic.jpg" width="900" height="600" /></div>
+<div align=center><img src="/pictures/weldpic.jpg" /></div>
 
 注：图示中两个桨键的限位螺杆为了利用剩余零件，没有使用双通螺柱，效果一致。
