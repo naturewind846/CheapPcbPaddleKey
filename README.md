@@ -32,11 +32,12 @@
 |M3x12 六角双通螺柱|5个|https://detail.tmall.com/item.htm?id=622436679073&spm=a1z09.2.0.0.1ccc2e8dr7a8AF&_u=v3p7pmalb905|
 |M3x6 304不锈钢圆头带垫螺丝|9个|https://detail.tmall.com/item.htm?id=524314468365&spm=a1z09.2.0.0.1ccc2e8dr7a8AF&_u=v3p7pmal9d59|
 |M3螺母|4个||
+|*可选 M3簧片+垫片*|3组|备注：用于将磁铁底座垫高，淘宝有M3螺丝垫片组合出售|
 |PJ322 3.5mm母座|1个|https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1ccc2e8dr7a8AF&id=537955324331&_u=v3p7pmal55c0|
 
 
 ## 制作过程
-PCB包含在立创eda工程文件中，可以免费打样。打样后pcb板按照下图红线剪开，桨的两小臂要用 锉刀打磨后塞进轴承里
+PCB包含在立创eda工程文件中，可以免费打样。打样后pcb板按照下图红线剪开，桨的两小臂要用锉刀**打磨**后塞进轴承里
 
 <div align=center><img src="/pictures/pcbpic.jpg" /></div>
 
