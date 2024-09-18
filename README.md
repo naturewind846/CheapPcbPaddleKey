@@ -39,7 +39,7 @@
 |M3x12 六角双通螺柱|5个|https://detail.tmall.com/item.htm?id=622436679073&spm=a1z09.2.0.0.1ccc2e8dr7a8AF&_u=v3p7pmalb905|
 |M3x6 304不锈钢圆头带垫螺丝|9个|https://detail.tmall.com/item.htm?id=524314468365&spm=a1z09.2.0.0.1ccc2e8dr7a8AF&_u=v3p7pmal9d59|
 |M3螺母|4个||
-|M3簧片|3个|备注：用于将磁铁底座垫高，可以购买M3螺丝垫片簧片组合|
+|*可选 M3簧片*|3个|备注：用于将磁铁底座垫高，可以购买M3螺丝垫片簧片组合|
 |PJ322 3.5mm母座|1个|https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1ccc2e8dr7a8AF&id=537955324331&_u=v3p7pmal55c0|
 
 
